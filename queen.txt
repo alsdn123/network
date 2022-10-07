@@ -9,3 +9,4 @@ CD1
 
 cd2
 1.Another One Bites The Dust
+2.queen
